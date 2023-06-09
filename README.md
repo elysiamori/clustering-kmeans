@@ -1,2 +1,2 @@
 # Clustering K-Means
-Sultan Ageng Tirtayas Univesity
+Sultan Ageng Tirtayasa Univesity
